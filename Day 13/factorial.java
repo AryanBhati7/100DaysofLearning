@@ -11,6 +11,7 @@ public class factorial {
         for(long i=n;i>1; i--){
             fac = fac*i;
         }
+        //For printing the result 
         System.out.print("Factorial : " + fac);
         sc.close();
     }
