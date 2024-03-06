@@ -28,6 +28,5 @@ public class SumofaRowin2DArray {
 
         System.out.println("SUM of Values of Row " + row + " is : " + SumofaRow(Matrix, row));
         System.out.println("SUM of Values of Row " + col + " is : " + SumofaRow(Matrix, col));
-
     }
 }
