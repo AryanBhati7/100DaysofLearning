@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Input_Output {
+public class Input_Output{
     public static void main(String args[]){
         int matrix[][] = new int[3][3];
         int n = matrix.length;
